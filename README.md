@@ -9,6 +9,6 @@ Rubber ducky bad USB scripts for RP2040 One.
 # Usage
 1. Download chosen payload file
 2. Put in rubber ducky root directory
-   - <img src="/img/root-directory.png" width="300" />
-3. Make sure file is named "payload.dd"
+   - <img src="/img/root-directory.png" width="600" />
+3. Make sure file is named `payload.dd`
 4. Unplug USB - payload will run automatically!
