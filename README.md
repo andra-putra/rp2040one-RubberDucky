@@ -2,4 +2,12 @@
 Rubber ducky bad USB scripts for RP2040 One.
 
 [RP2040 One made by Waveshare.](https://www.waveshare.com/wiki/RP2040-One#Documents)
-![RP2040 One by waveshare](https://www.waveshare.com/w/upload/6/63/RP2040-One_Spec001.jpg)
+
+<img src="https://www.waveshare.com/w/upload/6/63/RP2040-One_Spec001.jpg" width="600" />
+
+
+# Usage
+1. Download chosen payload file
+2. Put in rubber ducky root directory
+3. Rename payload file to "payload.dd"
+4. Unplug USB - payload will run automatically!
