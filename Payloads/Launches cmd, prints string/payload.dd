@@ -1,5 +1,5 @@
 REM Test payload - tobber
-DELAY 5000
+DELAY 1000
 WINDOWS r
 DELAY 500
 STRING powershell "echo '--- Hello from CHIP-BUDDY ---'; pause"

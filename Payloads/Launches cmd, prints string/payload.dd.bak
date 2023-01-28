@@ -1,0 +1,6 @@
+REM Test payload - tobber
+DELAY 1000
+WINDOWS r
+DELAY 500
+STRING cmd "echo 'Hello world'; pause"
+ENTER
